@@ -5,3 +5,4 @@
 * Hulk
 * Black Widow
 * Captain America
+* Spider Man
